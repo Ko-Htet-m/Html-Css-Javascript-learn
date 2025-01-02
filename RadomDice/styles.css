@@ -1,0 +1,12 @@
+#container{
+    font-family: arial ,sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+button{
+    font-size: 1.5em;
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+}
